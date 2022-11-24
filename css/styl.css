@@ -1,0 +1,22 @@
+img:hover{
+    background-color: rgb(180, 158, 34);
+}
+h1
+{
+    color:rgb(176, 41, 41);
+    font-size: 200px;
+}
+.bacon{
+    background-color: rgb(125, 4, 4);
+}
+.brocolli
+{
+    background-color: rgb(84, 230, 84);
+    border-radius: 100%;
+}
+.circular{
+    border-radius: 100%;
+}
+#heading{
+    color:rgb(17, 17, 180);
+}
